@@ -1,5 +1,7 @@
 # Résilience Numérique en Cas de Crise
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21632414.svg)](https://doi.org/10.5281/zenodo.21632414)
+
 > **English summary** — Open, freely reusable working papers on **national digital resilience**: the capacity of critical infrastructure (networks, information systems, essential services) to withstand, adapt to and recover from a major disruption. Includes a full dossier (PDF) with proposed lines of action for public decision-makers. Licensed **CC BY 4.0** — reuse and adaptation encouraged, with attribution.
 
 > ℹ️ **Statut de ces travaux** — Travail indépendant de synthèse et de proposition, fondé sur des sources ouvertes. Il ne contient **aucune information sensible**, aucune donnée opérationnelle, aucune vulnérabilité spécifique à un système existant : il s'agit d'un document d'orientation destiné au débat public et non d'un audit technique.
@@ -34,8 +36,10 @@ Toute contribution, remarque ou question est la bienvenue. Ce dépôt a vocation
 
 ## Citer et réutiliser ces travaux
 
+**DOI (toutes versions)** : [10.5281/zenodo.21632414](https://doi.org/10.5281/zenodo.21632414) — archivage permanent sur Zenodo (CERN).
+
 Diffusés sous licence [CC BY 4.0](LICENSE) : reprise, adaptation et republication libres, y compris à des fins commerciales, sous réserve d'en citer l'origine. Un fichier [CITATION.cff](CITATION.cff) est fourni pour la citation automatique.
 
-> Papillon, É. (2026). *Résilience nationale des infrastructures critiques*. Dépôt GitHub. https://github.com/ElodiePapillon/Resilience-Nationale-Infrastructures-Critiques
+> Papillon, É. (2026). *Résilience nationale des infrastructures critiques*. Zenodo. https://doi.org/10.5281/zenodo.21632414
 
 Remarques, objections et compléments sont bienvenus dans l'onglet **Discussions**.
