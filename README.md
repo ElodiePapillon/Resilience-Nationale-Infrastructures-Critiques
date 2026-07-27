@@ -1,5 +1,9 @@
 # Résilience Numérique en Cas de Crise
 
+> **English summary** — Open, freely reusable working papers on **national digital resilience**: the capacity of critical infrastructure (networks, information systems, essential services) to withstand, adapt to and recover from a major disruption. Includes a full dossier (PDF) with proposed lines of action for public decision-makers. Licensed **CC BY 4.0** — reuse and adaptation encouraged, with attribution.
+
+> ℹ️ **Statut de ces travaux** — Travail indépendant de synthèse et de proposition, fondé sur des sources ouvertes. Il ne contient **aucune information sensible**, aucune donnée opérationnelle, aucune vulnérabilité spécifique à un système existant : il s'agit d'un document d'orientation destiné au débat public et non d'un audit technique.
+
 ## Pourquoi ce dépôt ?
 
 Ce dépôt met librement à disposition un ensemble d'idées et de travaux consacrés à la résilience numérique nationale en cas de crise. Il s'intéresse à la capacité de nos infrastructures critiques — réseaux, systèmes d'information, services essentiels — à résister, à s'adapter et à se rétablir lorsque survient une perturbation majeure. Il s'adresse à celles et ceux qui décident et votent, à celles et ceux qui peuvent financer, et à toutes les personnes prêtes à œuvrer pour l'avenir de l'humanité.
@@ -27,3 +31,11 @@ Les pistes rassemblées ici explorent notamment : la redondance et la décentral
 ## Contribuer
 
 Toute contribution, remarque ou question est la bienvenue. Ce dépôt a vocation à évoluer et à s'enrichir des apports de chacun.
+
+## Citer et réutiliser ces travaux
+
+Diffusés sous licence [CC BY 4.0](LICENSE) : reprise, adaptation et republication libres, y compris à des fins commerciales, sous réserve d'en citer l'origine. Un fichier [CITATION.cff](CITATION.cff) est fourni pour la citation automatique.
+
+> Papillon, É. (2026). *Résilience nationale des infrastructures critiques*. Dépôt GitHub. https://github.com/ElodiePapillon/Resilience-Nationale-Infrastructures-Critiques
+
+Remarques, objections et compléments sont bienvenus dans l'onglet **Discussions**.
