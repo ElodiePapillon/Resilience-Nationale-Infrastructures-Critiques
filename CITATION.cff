@@ -4,14 +4,14 @@ title: "Resilience nationale des infrastructures critiques : dossier ouvert"
 abstract: "Travaux ouverts sur la resilience numerique nationale en cas de crise : capacite des reseaux, systemes d'information et services essentiels a resister, s'adapter et se retablir apres une perturbation majeure."
 type: dataset
 authors:
-  - family-names: Papillon
+  - family-names: Perrichon
     given-names: Elodie
 license: CC-BY-4.0
-doi: "10.5281/zenodo.21632414"
+doi: "10.5281/zenodo.21632413"
 repository-code: "https://github.com/ElodiePapillon/Resilience-Nationale-Infrastructures-Critiques"
 url: "https://github.com/ElodiePapillon/Resilience-Nationale-Infrastructures-Critiques"
-version: "1.0.1"
-date-released: "2026-07-27"
+version: "1.0.2"
+date-released: "2026-07-28"
 keywords:
   - resilience
   - infrastructures critiques
