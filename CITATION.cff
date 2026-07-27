@@ -7,9 +7,10 @@ authors:
   - family-names: Papillon
     given-names: Elodie
 license: CC-BY-4.0
+doi: "10.5281/zenodo.21632414"
 repository-code: "https://github.com/ElodiePapillon/Resilience-Nationale-Infrastructures-Critiques"
 url: "https://github.com/ElodiePapillon/Resilience-Nationale-Infrastructures-Critiques"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-07-27"
 keywords:
   - resilience
