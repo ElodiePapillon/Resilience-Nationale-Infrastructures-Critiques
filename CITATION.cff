@@ -6,6 +6,7 @@ type: dataset
 authors:
   - family-names: Perrichon
     given-names: Elodie
+    orcid: "https://orcid.org/0009-0001-4236-1969"
 license: CC-BY-4.0
 doi: "10.5281/zenodo.21632413"
 repository-code: "https://github.com/ElodiePapillon/Resilience-Nationale-Infrastructures-Critiques"
