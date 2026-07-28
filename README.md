@@ -1,6 +1,6 @@
 # Résilience Numérique en Cas de Crise
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21632414.svg)](https://doi.org/10.5281/zenodo.21632414)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21632413.svg)](https://doi.org/10.5281/zenodo.21632413)
 
 > **English summary** — Open, freely reusable working papers on **national digital resilience**: the capacity of critical infrastructure (networks, information systems, essential services) to withstand, adapt to and recover from a major disruption. Includes a full dossier (PDF) with proposed lines of action for public decision-makers. Licensed **CC BY 4.0** — reuse and adaptation encouraged, with attribution.
 
@@ -36,10 +36,10 @@ Toute contribution, remarque ou question est la bienvenue. Ce dépôt a vocation
 
 ## Citer et réutiliser ces travaux
 
-**DOI (toutes versions)** : [10.5281/zenodo.21632414](https://doi.org/10.5281/zenodo.21632414) — archivage permanent sur Zenodo (CERN).
+**DOI (toutes versions)** : [10.5281/zenodo.21632413](https://doi.org/10.5281/zenodo.21632413) — archivage permanent sur Zenodo (CERN).
 
 Diffusés sous licence [CC BY 4.0](LICENSE) : reprise, adaptation et republication libres, y compris à des fins commerciales, sous réserve d'en citer l'origine. Un fichier [CITATION.cff](CITATION.cff) est fourni pour la citation automatique.
 
-> Papillon, É. (2026). *Résilience nationale des infrastructures critiques*. Zenodo. https://doi.org/10.5281/zenodo.21632414
+> Perrichon, E. (2026). *Résilience nationale des infrastructures critiques*. Zenodo. https://doi.org/10.5281/zenodo.21632413
 
 Remarques, objections et compléments sont bienvenus dans l'onglet **Discussions**.
